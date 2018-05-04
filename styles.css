@@ -1,0 +1,31 @@
+#like{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 70px;
+}
+
+#love{
+    position: fixed;
+    right: 520px;
+    top: 10px;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 70px;
+}
+
+#laugh{
+    position: fixed;
+    right: 10px;
+    top: 10px;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 70px;
+}
+
+.reset{
+    text-align: center;
+    padding-top: 80px;
+}
+
+#reset{
+    width: 380px;
+    height: 250px;
+    font-size: 100px;
+}
